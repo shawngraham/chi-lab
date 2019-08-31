@@ -26,6 +26,11 @@ Current Research Areas:
 - Computer Vision
 - Computational Creativity
 
+Courses:
+- HIST3814 [Crafting Digital History](https://craftingdigitalhistory.ca)
+- HIST4806A [Museums and Digital History](https://shawngraham.github.io/chi)
+- DIGH5902F:HIST5706F [Guerrilla Digital Public History](https://shawngraham.github.io/guerrilla-dh)
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -37,13 +42,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/electricarchaeo
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/XLabCU
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
