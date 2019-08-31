@@ -65,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-Many faculty and students in the Department of History are working on a variety of digital and digitally-inflected approaches to cultural heritage materials, writ large. The X-Lab (CHI-Lab; 'chi' being the Greek letter X) is a way of bringing our work together so that we can foster dialogue and learn from one another. Periodically through the term, we meet for coffee and donuts, to workshop new projects, learn new skills, or demonstrate cool work. Won't you join us?
+Many faculty and students in the [Department of History](https://carleton.ca/history) are working on a variety of digital and digitally-inflected approaches to cultural heritage materials, writ large. The X-Lab (CHI-Lab; 'chi' being the Greek letter X) is a way of bringing our work together so that we can foster dialogue and learn from one another. Periodically through the term, we meet for coffee and donuts, to workshop new projects, to learn new skills, or to demonstrate cool work. Won't you join us?
