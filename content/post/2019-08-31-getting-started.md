@@ -2,10 +2,6 @@
 date: 2018-08-31
 title: Getting Started
 author: shawn_graham
-tags:
-  -getting_started
-  -vision
-  -websites
 ---
 
 # Getting Started
