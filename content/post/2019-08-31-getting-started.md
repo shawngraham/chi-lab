@@ -5,7 +5,7 @@ author: shawn_graham
 tags = ["history", "archaeology", "news", "cultural-heritage-informatics"]
 ---
 
-# Getting Started
+# An Idea
 
 It occurred to me that there are many student and faculty projects going on around the History Department, but we do not actually speak to one another formally about this work. There are haphazard meetings in hallways and corridors going to and from class, but no real _place_ where people could talk about their work, share resources, hints, tips, kvetch or otherwise collaborate. I thought then I might try to create a _virtual_ space for that to happen; this is the result.
 
