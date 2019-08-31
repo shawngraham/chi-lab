@@ -67,7 +67,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "shawn dot graham at carleton dot ca"
+email = "shawn.graham@carleton.ca"
 phone = "613 520 2828"
 address = "4th Floor, Paterson Hall, Carleton University"
 
