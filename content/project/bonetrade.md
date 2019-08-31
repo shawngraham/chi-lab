@@ -9,7 +9,7 @@ title = "The Bone Trade"
 summary = "Studying the trade in human remains on social media using computer vision"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "glitched.jpg"
+image_preview = "fig1-huffer-wood-graham-conch.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -20,6 +20,11 @@ external_link = "http://bonetrade.github.io"
 
 # Does the project detail page use math formatting?
 math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "figure4.png"
+caption = "The machine trying to explain what it sees."
 
 +++
 
