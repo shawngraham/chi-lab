@@ -16,7 +16,7 @@ image_preview = "image-inpaint.png"
 tags = ["archaeology", "machine-learning", "legacy-data", "near-east", "computer-vision"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://shawngraham.github.io/CCAD/"
+# external_link = "https://shawngraham.github.io/CCAD/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -38,14 +38,6 @@ Sara Perry writes,
 
 And I think she's right.
 
----
+Led by Shawn Graham
 
-**Shawn Graham** is Associate Professor of Digital Humanities in the [Department of History at Carleton University in Ottawa, Canada](http://carleton.ca/history).
-
-**Jeff Blackadar** is an MA History with Data Science student at Carleton University. His research blog is at [jeffblackadar.ca/](http://jeffblackadar.ca/)
-
-## Contact
-
-shawn dot graham at carleton dot ca
-
-[@electricarchaeo](http://twitter.com/electricarchaeo)
+[Project Website](https://shawngraham.github.io/CCAD/)
