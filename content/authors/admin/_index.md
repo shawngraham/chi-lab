@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: X Lab (CHI-Lab)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: A Virtual Cultural Heritage Informatics Lab
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carleton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: The Virtual Cultural Heritage Informatics Lab.
 
-interests:
+Current Research Areas:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Computational Creativity
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+We are a diverse group of faculty and students, working on a variety of digital and digitally-inflected approaches to cultural heritage materials, writ large
