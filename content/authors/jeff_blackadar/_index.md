@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shawn Graham
+name: Jeff Blackadar
 
 # Username (this should match the folder name)
 authors:
