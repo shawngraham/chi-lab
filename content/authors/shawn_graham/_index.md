@@ -20,18 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Associate Professor of Digital Humanities.
 
-Current Research Areas:
-- Artificial Intelligence
-- Computational Linguistics
-- Computer Vision
-- Computational Creativity
-
-Courses:
-- HIST3814 [Crafting Digital History](https://craftingdigitalhistory.ca)
-- HIST4806A [Museums and Digital History](https://shawngraham.github.io/chi)
-- DIGH5902F:HIST5706F [Guerrilla Digital Public History](https://shawngraham.github.io/guerrilla-dh)
-
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -65,3 +53,14 @@ user_groups:
 ---
 
 Shawn Graham is Associate Professor of Digital Humanities in the Department of History at Carleton University in Ottawa, Canada.
+
+Current Research Areas:
+- Artificial Intelligence
+- Computational Linguistics
+- Computer Vision
+- Computational Creativity
+
+Courses:
+- HIST3814 [Crafting Digital History](https://craftingdigitalhistory.ca)
+- HIST4806A [Museums and Digital History](https://shawngraham.github.io/chi)
+- DIGH5902F:HIST5706F [Guerrilla Digital Public History](https://shawngraham.github.io/guerrilla-dh)
