@@ -61,8 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
 Many faculty and students in the Department of History are working on a variety of digital and digitally-inflected approaches to cultural heritage materials, writ large. The X-Lab (CHI-Lab; 'chi' being the Greek letter X) is a way of bringing our work together so that we can foster dialogue and learn from one another. Periodically through the term, we meet for coffee and donuts, to workshop new projects, learn new skills, or demonstrate cool work. Won't you join us?
