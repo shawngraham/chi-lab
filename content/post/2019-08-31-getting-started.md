@@ -2,7 +2,11 @@
 date: 2018-08-31
 title: Getting Started
 author: shawn_graham
-tags: "history", "archaeology", "news", "cultural-heritage-informatics"
+tags: 
+  - history
+  - archaeology
+  - news
+  - cultural-heritage-informatics
 ---
 
 # An Idea
