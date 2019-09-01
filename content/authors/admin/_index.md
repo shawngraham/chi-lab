@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: A Virtual Cultural Heritage Informatics Lab
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -19,17 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: The Virtual Cultural Heritage Informatics Lab.
-
-Current Research Areas:
-- Artificial Intelligence
-- Computational Linguistics
-- Computer Vision
-- Computational Creativity
-
-Courses:
-- HIST3814 [Crafting Digital History](https://craftingdigitalhistory.ca)
-- HIST4806A [Museums and Digital History](https://shawngraham.github.io/chi)
-- DIGH5902F:HIST5706F [Guerrilla Digital Public History](https://shawngraham.github.io/guerrilla-dh)
 
 
 # Social/Academic Networking
@@ -65,4 +54,4 @@ email: ""
 # - Visitors
 ---
 
-Many faculty and students in the [Department of History](https://carleton.ca/history) are working on a variety of digital and digitally-inflected approaches to cultural heritage materials, writ large. The X-Lab (CHI-Lab; 'chi' being the Greek letter X) is a way of bringing our work together so that we can foster dialogue and learn from one another. Periodically through the term, we meet for coffee and donuts, to workshop new projects, to learn new skills, or to demonstrate cool work. Won't you join us?
+Many faculty and students in the [Department of History](https://carleton.ca/history) are working on a variety of digital and digitally-inflected approaches to cultural heritage materials, writ large. The X-Lab (CHI-Lab; 'chi' being the Greek letter X) is envisioned as an online collaboratory, a way of bringing our work together so that we can foster dialogue and learn from one another. Periodically through the term, we meet for coffee and donuts, to workshop new projects, to learn new skills, or to demonstrate cool work. Won't you join us?
