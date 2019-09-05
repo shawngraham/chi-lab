@@ -6,7 +6,7 @@ date = "2019-08-31"
 title = "Nanohistory"
 
 # Project summary to display on homepage.
-summary = "The smallest historical units"
+summary = "The smallest historical units - a subproject of Matt Milner's Nanohistory project, exploring museum collecting histories"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
