@@ -6,7 +6,7 @@ date = "2019-08-31"
 title = "Computational Creativity and Archaeological Data"
 
 # Project summary to display on homepage.
-summary = "Exploring the creative reuse of legacy archaeological data to generate new insights. A subset of the SSHRC-funded Computational Research in the Ancient Near East Project."
+summary = "Exploring the creative reuse of legacy archaeological data to generate new insights. A subproject of the SSHRC-funded Computational Research in the Ancient Near East Project."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "image-inpaint.png"
