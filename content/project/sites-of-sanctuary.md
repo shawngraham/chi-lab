@@ -25,7 +25,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "sanctuary"
+image = "sanctuary.png"
 caption = "sitesofsanctuary.com"
 
 +++
