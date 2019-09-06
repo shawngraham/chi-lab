@@ -1,6 +1,6 @@
 +++
 abstract = "There is an active trade in human remains facilitated by social media sites. In this paper we ask: can machine learning detect visual signals in photographs indicating that the human remains depicted are for sale? Do such signals even exist? This paper describes an experiment in using Tensorflow and the Google Inception-v3 model against a corpus of publicly available photographs collected from Instagram. Previous examination of the associated metadata for these photos detected patterns in the connectivity and rhetoric surrounding this ‘bone trade’, including several instances where ‘for sale’ seemed to be implied, though not explicitly stated. The present study looks for signals in the visual rhetoric of the images as detected by the computer and how these signals may intersect with the other data present."
-authors = ["D Huffer, SM Graham"]
+authors = ["D Huffer"], ["shawn_graham"]
 date = "2018-05-30"
 image_preview = ""
 publication = "Journal of Computer Applications in Archaeology"
