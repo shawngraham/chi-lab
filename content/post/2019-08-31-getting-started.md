@@ -1,7 +1,9 @@
 ---
 date: 2018-08-31
 title: Getting Started
-author: "shawn_graham"
+authors = [
+"shawn_graham",
+]
 tags: 
   - history
   - archaeology
