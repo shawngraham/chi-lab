@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Members
 ---
 
 Damien has been an Adjunct Research Professor at Carleton since 2019. From 2017-19 he was a postdoctoral fellow within the Osteoarchaeological Research Laboratory, Department of Archaeology & Classical Studies, Stockholm University. From 2014 – 2016, he was awarded the Stable Isotope Postdoctoral Fellowship at the Smithsonian’s Museum Conservation Institute/Division of Anthropology.
