@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Members
 ---
 
 As a member of the Department of History and as the co-ordinator for the Medieval and Early Modern Studies (MEMS) program at Carleton, my teaching seeks to demystify the medieval world. This year, I am teaching a range of courses from an introduction to European history (HIST 1001, The Making of Europe) to advanced courses looking the medieval manuscripts in Carleton’s library (HIST 4007, The History of the Medieval Book). Together with students in MEMS, I am cataloguing the hitherto unidentified medieval manuscripts and fragments in Carleton’s Archives and Research Collection. If you are interested in medieval studies, but don’t see the course you’re looking for in History, check out the list of possible electives for MEMS [here](https://carleton.ca/mems/courses/mems-courses/).
