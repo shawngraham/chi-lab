@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Members
 ---
 
 Rebecca's research interests include historical GIS (HGIS) and geographic events or developments mapped over time to create animations. She has done some work comparing free online mapping tools and using coding libraries (such as Leaflet and D3.js) for creating interactive online maps. She is also working on extracting geographic locations from historical texts in order to facilitate information retrieval by researchers.
