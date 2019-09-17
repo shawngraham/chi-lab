@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Members
 ---
 
 My undergraduate teaching revolves around contemporary German and European history, and I also teach transnational histories of love, hate, sexuality, and everyday life. I also teach about the longue durée history of authoritarianism, populism, and fascism. At the graduate level, I focus on critical theory and interdisciplinary research methods in addition to historiography. My main research interests lie in the history of sexuality and visual culture, especially the role of photography and social media as agents of historical meaning.
