@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Damien Huffer
+name: Marc Saurette
 
 # Username (this should match the folder name)
 authors:
-- damien_huffer
+- marc_saurette
 
 # Is this the primary user of the site?
 superuser: false
