@@ -1,5 +1,5 @@
 ---
-date: 2018-08-31
+date: 2019-09-17
 title: Introducing the XLab Fellowship
 authors: [
 "shawn_graham",
@@ -7,7 +7,7 @@ authors: [
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Image by Marvin Meyer on [unsplash.com](http://unsplash.com)"
-  image: "marvin-meyer-SYTO3xs06fU-unsplash.jpg"
+  image: "marvin-meyer.png"
 tags: 
   - awards
   - news
