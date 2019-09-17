@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Members
 ---
 
 Laura Madokoro is the project lead on the Sites of Sanctuary project. She is Associate Professor in the Department of History. As a historian of migration, with a particular focus on refugee movements, she brings a wealth of experience and expertise to questions of refuge, humanitarianism and protection. She is the author of Elusive Refuge: Chinese Migrants in the Cold War (Harvard University Press, 2016). Her work has also appeared in a number of venues including Refuge, Modern Asian Studies and Social History/ Histoire Sociale. She regularly contributes op-eds to major news outlets and public history outlets such as activehistory.ca
