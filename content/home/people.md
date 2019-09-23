@@ -13,5 +13,5 @@ subtitle = ""
 user_groups = ["Members",
                "Research Fellows",
                "Grad Students",
-               "Administration"
+               "Administration"]
 +++
