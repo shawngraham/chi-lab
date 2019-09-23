@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Fellows
+- "Research Fellows"
 ---
 
 I am a fourth year history student with a minor in archaeology. I am interested in the perceptions of the body throughout history and application of technological advancements as teaching tools for history. I am hoping to use this fellowship to gain skills and knowledge in online and digital media that will aid with future research into digital pedagogy.
