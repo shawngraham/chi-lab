@@ -7,7 +7,7 @@ authors: [
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Hans Peter Gauster, [unsplash.com](https://unsplash.com/photos/3y1zF4hIPCg)"
-  image: "Hans-Peter-Gauster-unsplash-puzzles"
+  image: "Hans-Peter-Gauster-unsplash-puzzles.png"
 tags: 
   - history
   - archaeology
