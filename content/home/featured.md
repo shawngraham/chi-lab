@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Upcoming Events"
-subtitle = "Online and Off"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
