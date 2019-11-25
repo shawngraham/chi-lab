@@ -6,9 +6,11 @@ header:
   image: "metalstructure.png"
 ---
 
+**CANCELLED; Will Reschedule. Sorry!**
+
 **An XLab Brown Bag with Shawn Graham, Department of History: Making Sense of Networks**
 
-**November 27, 11.30**
+**~~November 27, 11.30~~**
 
 **History Department Lounge, 4th Floor Paterson Hall**
 
