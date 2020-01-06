@@ -1,6 +1,6 @@
 ---
 date: 2020-01-05
-title: Modifying the Micropolis: Roman Style
+title: "Modifying the Micropolis: Roman Style"
 authors: [
 "chantal_brousseau",
 ]
