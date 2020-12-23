@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Digital Humanities
+role: Full Professor of Digital Humanities
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -53,7 +53,7 @@ user_groups:
 - Administration
 ---
 
-Shawn Graham is Associate Professor of Digital Humanities in the Department of History at Carleton University in Ottawa, Canada.
+Shawn Graham is Full Professor of Digital Humanities in the Department of History at Carleton University in Ottawa, Canada. 
 
 Current Research Areas:
 - Artificial Intelligence
@@ -62,6 +62,6 @@ Current Research Areas:
 - Computational Creativity
 
 Courses:
-- HIST3814 [Crafting Digital History](https://craftingdigitalhistory.ca)
-- HIST4806A [Museums and Digital History](https://shawngraham.github.io/chi)
-- DIGH5902F:HIST5706F [Guerrilla Digital Public History](https://shawngraham.github.io/guerrilla-dh)
+- HIST3000 [Introduction to Digital History](https://digiarch.netlify.app)
+- HIST3814 [Crafting Digital History](https://craftingdh.netlify.app)
+- HIST4916A [Museums and Digital History](https://dhmuse.netlify.app)
