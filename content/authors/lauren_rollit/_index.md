@@ -45,11 +45,11 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- "Research Fellows"
+- "Former Fellows"
 ---
 
 Lauren has as part of her coursework at Carleton used corpus linguistics on Canadian newspapers to explore aspects of the 19th century Canadian economy. She is the social media coordinator for the Ottawa Historical Society, and has worked in public history for the Department of Canadian Heritage, and the Lambton House Museum. She is interested in the intersections of gender and economic history, and digital history methods.

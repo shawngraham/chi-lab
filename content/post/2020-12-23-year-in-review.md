@@ -55,6 +55,10 @@ Many of the things that we had planned on doing this year failed. Some things - 
 
 The biggest thing on deck for 2020 - the [DH2020 ADHO Conference](https://dh2020.adho.org/) - was projected to bring around 800 people to Ottawa in July. I'm glad that ADHO made the call relatively early on to cancel that event; it was the right call. Here's hoping that the 2021 event can happen in some format.
 
+## New Members
+
+We were joined this fall by [Jaime Simons](authors/jaime_simons/), [Emma Gillies](authors/emma_gillies), and [Katherine Davidson](authors/katherine_davidson).
+
 ## Moving Forward
 
 My goal for the Winter 2021 semester, for the X-Lab, is to keep on being a place where outrageous ideas can be entertained, a place that supports its students, and even a place that puts on a few learning events for the wider community. Long term, I'd like to secure funding from the University to support a wider variety and number of undergraduate students. See you in the New Year!

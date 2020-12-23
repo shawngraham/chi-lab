@@ -45,11 +45,11 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- "Research Fellows"
+- "Former Fellows"
 ---
 
 I am a Carleton Honours History Major and Computer Science Minor student with experience in historical research and writing code. I am interested in modding video games to express 'good history', whatever that may be! I was recently an intern as part of a co-op experience with an international development research centre in Ottawa, using and developing social media to promote the work of the research centre.
