@@ -25,11 +25,11 @@ Nevertheless, many of our projects moved to the back burner, while our undergrad
 
 So, on with our wins:
 
-- [Alex Lane](authors/alex_lane/) started his MA in Information Technology and Data Science. He was also co-author on [a new paper that came out from the BoneTrade Project](https://journal.caa-international.org/article/10.5334/jcaa.59/)
-- [Chantal Brousseau](authors/chantal_brousseau/) won a place in the [Students as Partners program](https://carleton.ca/discoverycentre/funding-opportunities/students-as-partners-program-sapp/) helping to design [HIST491a DH + Musems](https://dhmuse.netlify.app)
-- [Jeff Blackadar](authors/jeff_blackadar) was a co-author on a [new paper related to the BoneTrade project using code he developed for CCAD](https://www.mdpi.com/2571-9408/3/2/13)
-- [Jennifer Evans](authors/jennifer_v_evans/) won a SSHRC Insight Grant for "Hate 3.0: Memory, Populism, and Misinformation in the Canadian Social Mediascape". [See story here](https://carleton.ca/history/2020/history-professors-win-sshrc-insight-grant-for-hate-3-0/). She also [won gold and bronze medals at the National Powerlifing Championships!](https://newsroom.carleton.ca/story/history-professor-medals-powerlifting/)
-- [Laura Madokoro](authors/laura_madokoro/) was [elected to the Royal Society of Canada’s College of New Scholars, Artists and Scientists](https://carleton.ca/history/2020/laura-madokoro-named-to-the-rsc-college-of-new-scholars-artists-and-scientists/)
+- [Alex Lane](/authors/alex_lane/) started his MA in Information Technology and Data Science. He was also co-author on [a new paper that came out from the BoneTrade Project](https://journal.caa-international.org/article/10.5334/jcaa.59/)
+- [Chantal Brousseau](/authors/chantal_brousseau/) won a place in the [Students as Partners program](https://carleton.ca/discoverycentre/funding-opportunities/students-as-partners-program-sapp/) helping to design [HIST491a DH + Musems](https://dhmuse.netlify.app)
+- [Jeff Blackadar](/authors/jeff_blackadar) was a co-author on a [new paper related to the BoneTrade project using code he developed for CCAD](https://www.mdpi.com/2571-9408/3/2/13)
+- [Jennifer Evans](/authors/jennifer_v_evans/) won a SSHRC Insight Grant for "Hate 3.0: Memory, Populism, and Misinformation in the Canadian Social Mediascape". [See story here](https://carleton.ca/history/2020/history-professors-win-sshrc-insight-grant-for-hate-3-0/). She also [won gold and bronze medals at the National Powerlifing Championships!](https://newsroom.carleton.ca/story/history-professor-medals-powerlifting/)
+- [Laura Madokoro](/authors/laura_madokoro/) was [elected to the Royal Society of Canada’s College of New Scholars, Artists and Scientists](https://carleton.ca/history/2020/laura-madokoro-named-to-the-rsc-college-of-new-scholars-artists-and-scientists/)
 
 ## New Publications
 
@@ -47,7 +47,7 @@ The BoneTrade project had a few papers that had been in development for quite so
 
 > The trade in human remains on social media happens in an ever-changing field of digital media technologies. We attempt to replicate our earlier study, exploring the differences in what we can observe now in the trade on Instagram versus our first foray in 2016 (published in Huffer and Graham 2017). While the previous study cannot be reproduced, it can be replicated, and we find that the trade is accelerating.
 
-Finally, Shawn Graham's book, _[An Enchantment of Digital Archaeology: Raising the Dead with Agent-Based Models, Archaeogaming and Artificial Intelligence](https://www.berghahnbooks.com/title/GrahamEnchantment)_ was finally published by Berghahn Books, New York, in July
+Finally, Shawn Graham's book, _[An Enchantment of Digital Archaeology: Raising the Dead with Agent-Based Models, Archaeogaming and Artificial Intelligence](https://www.berghahnbooks.com/title/GrahamEnchantment)_ was published by Berghahn Books, New York, in July
 
 ## Things that Could've Been
 
@@ -57,7 +57,7 @@ The biggest thing on deck for 2020 - the [DH2020 ADHO Conference](https://dh2020
 
 ## New Members
 
-We were joined this fall by [Jaime Simons](authors/jaime_simons/), [Emma Gillies](authors/emma_gillies), and [Katherine Davidson](authors/katherine_davidson).
+We were joined this fall by [Jaime Simons](/authors/jaime_simons/), [Emma Gillies](/authors/emma_gillies), and [Katherine Davidson](/authors/katherine_davidson).
 
 ## Moving Forward
 
