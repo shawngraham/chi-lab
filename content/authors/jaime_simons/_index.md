@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Research Fellows"
+- "Grad Students"
 ---
 
 Jaime is a first-year M.A. student in Public History, specializing in Digital Humanities. Their research interests focus on using virtual and augmented reality to increase accessibility for archaeological and historical sites. They also have over seven years of museum experience with a variety of museums.
