@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Research Fellows"
+- "Grad Students"
 ---
 
 Emma Gillies is an archaeologist pursuing an MA in Public History, looking at the use/abuse of heritage imagery in the craft brewing industry in Canada. As part of the CCAD project, she is exploring the ways generative adversarial networks learn to represent archaeological photography. 
