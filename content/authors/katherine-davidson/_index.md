@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Research Fellows"
+- "Grad Students"
 ---
 
 I received my BAH in Archaeology, specializing in Anthropological Archaeology with a Minor in History from Trent University in 2016. I also hold a Master of Arts in Anthropology, specializing in Archaeology, from the University of New Brunswick. My Master's thesis is titled "Washeo Whiskiheggan: Examining the Hudson's Bay Company Fur Trade Post in Fort Severn, Ontario Through Archaeological Analysis and Community Engagement". I am currently a PhD student in the Department of Sociology and Anthropology at Carleton University.
