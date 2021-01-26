@@ -1,6 +1,7 @@
 ---
 title: "Social Media Research Workshop"
 featured: true
+weight: 0
 ---
 
 **with Brandon Rigato**. 
