@@ -3,7 +3,7 @@ abstract = "It is possible to purchase human remains via Instagram. We present a
 authors = [
 "Shawn Graham",
 "Damien Huffer",
-"Jeff Blackadar
+"Jeff Blackadar"
 ]
 image_preview = ""
 publication = "Heritage"
