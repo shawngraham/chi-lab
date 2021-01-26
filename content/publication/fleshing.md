@@ -5,7 +5,7 @@ authors = [
 "shawn_graham"
 ]
 image_preview = ""
-date = "2018"
+date = "2018-05-01"
 publication = "Journal of Computer Applications in Archaeology"
 publication_short = "JCAA"
 publication_types = ["2"]
