@@ -52,7 +52,7 @@ user_groups:
 - "Grad Students"
 ---
 
-I’m a 2019 graduate of Carleton University with a Bachelor’s of Computer Science, Honours in Game Development, Minor in Music. I have a desire to work in an environment that challenges myself in regards to design, creativity, or research. 
+I’m a 2019 graduate of Carleton University with a Bachelor’s of Computer Science, Honours in Game Development, Minor in Music. I have a desire to work in an environment that challenges myself in regards to design, creativity, or research. I am currently working towards my MA in Information Technology with a concentration in Data Science. 
 
 I'm currently working as a research assistant on a neural network involved in observing the online bone trade, making optimizations, under the supervision of Dr. Graham of Carleton's Department of History.
 In addition, I have a piece of software in continued development on my GitHub. It allows for real-time modification of MIDI files to be able to perceive immediate changes in the music; conceptual purpose is as a development tool for small game developement teams.
