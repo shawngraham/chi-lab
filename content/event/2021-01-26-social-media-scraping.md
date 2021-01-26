@@ -1,5 +1,5 @@
 ---
-title: "Social Media Research Workshop"
+title: "1. Social Media Research Workshop"
 featured: true
 weight: 0
 ---
