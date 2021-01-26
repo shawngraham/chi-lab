@@ -6,6 +6,7 @@ authors = [
 "Jeff Blackadar"
 ]
 image_preview = ""
+date = "2020"
 publication = "Heritage"
 publication_short = ""
 publication_types = ["2"]
