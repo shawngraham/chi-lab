@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- "Research Fellows"
+- "Grad Students"
 ---
 
 I’m a 2019 graduate of Carleton University with a Bachelor’s of Computer Science, Honours in Game Development, Minor in Music. I have a desire to work in an environment that challenges myself in regards to design, creativity, or research. 
