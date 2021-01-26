@@ -7,6 +7,7 @@ authors = [
 "Damien Huffer"
 ]
 image_preview = ""
+date = "2020"
 publication = "Journal of Computer Applications in Archaeology"
 publication_short = "JCAA"
 publication_types = ["2"]
