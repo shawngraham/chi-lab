@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Full Professor of Digital Humanities
+role: XLab Wrangler
 
 # Organizations/Affiliations
 organizations:
