@@ -18,7 +18,7 @@ organizations:
   url: "https://carleton.ca/history"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor of Digital Humanities.
+bio: Professor of Digital Humanities.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,8 +56,7 @@ user_groups:
 Shawn Graham is Full Professor of Digital Humanities in the Department of History at Carleton University in Ottawa, Canada. 
 
 Current Research Areas:
-- Artificial Intelligence
-- Computational Linguistics
+- Artificial Intelligence 
 - Computer Vision
 - Computational Creativity
 
